@@ -1,4 +1,0 @@
-# home
-cat
-mouse
-dog
